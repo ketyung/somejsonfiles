@@ -1,0 +1,83 @@
+[
+    {
+        "name" : "Johnson T. Campbell",
+        "dateJoined" : "2012-10-01",
+        "department" : "engineering"
+    },
+    {
+        "name" : "Cierra Vega",
+        "dateJoined" : "2019-02-01",
+        "department" : "service"
+    },
+    {
+        "name" : "Alden Cantrell",
+        "dateJoined" : "2020-05-02",
+        "department" : "service"
+    },
+    
+    {
+        "name" : "Nathan Levy",
+        "dateJoined" : "2009-03-02",
+        "department" : "service"
+    },
+    {
+        "name" : "Luke Roman",
+        "dateJoined" : "2002-03-03",
+        "department" : "service"
+    },
+    {
+        "name" : "Kerry Wang Yue",
+        "dateJoined" : "2012-03-03",
+        "department" : "service"
+    },
+    {
+        "name" : "Jason Chan Heong Man",
+        "dateJoined" : "2012-05-03",
+        "department" : "service"
+    },
+    {
+        "name" : "Kierra Gentry",
+        "dateJoined" : "2012-10-02",
+        "department" : "engineering"
+    },
+    {
+        "name" : "Pierre Cox",
+        "dateJoined" : "2012-03-01",
+        "department" : "marketing"
+    },
+    {
+        "name" : "Thomas Crane",
+        "dateJoined" : "2021-01-03",
+        "department" : "engineering"
+    },
+    {
+        "name" : "Miranda Shaffer",
+        "dateJoined" : "2012-11-05",
+        "department" : "engineering"
+    },
+    {
+        "name" : "Janice Low",
+        "dateJoined" : "2012-10-01",
+        "department" : "engineering"
+    },
+    {
+        "name" : "Bradyn Kramer",
+        "dateJoined" : "2016-10-02",
+        "department" : "service"
+    },
+    {
+        "name" : "Alvaro Mcgee",
+        "dateJoined" : "2018-10-05",
+        "department" : "marketing"
+    },
+    {
+        "name" : "Alex Man",
+        "dateJoined" : "2008-10-02",
+        "department" : "engineering"
+    },
+    {
+        "name" : "Christopher K Y Chee",
+        "dateJoined" : "2005-02-05",
+        "department" : "engineering"
+    }
+]
